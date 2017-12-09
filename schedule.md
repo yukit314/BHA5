@@ -5,6 +5,7 @@
 ### Homework
 - Watch Videos, Make Notes
 - Read Papers
+- Make own designs or improve
 
 ### Lab Day 1 (February Xth)
 - 14:00 What is BioHacking
