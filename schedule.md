@@ -1,5 +1,8 @@
 # Schedule for BHA5 Japan
 
+##Pre-BHA
+- Introduction to GitHub
+
 ## Week 1
 
 ### Homework
