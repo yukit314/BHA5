@@ -1,6 +1,6 @@
 3mm厚アクリル～　数枚
 
-|No|個数|品|購入できる場所|価格|参考|
+|No|個数|品|購入できる場所|価格(Cheapest)|参考|
 | ------------: | ------------: | :------------ | :------------ | ------------: | :------------ |
 |1|2|80 mm ファン(PC用)|[Tsukumo](http://shop.tsukumo.co.jp/goods/4937925913084/), [Monotaro](https://www.monotaro.com/g/00866020/), [AliExpress](https://www.aliexpress.com/item/80-80-25-MM-Personal-Computer-Case-Cooling-Fan-DC-12V-2200RPM-45CM-Fan-Cable-PC/32691113285.html)|475||
 |2|2|ネオジム磁石|ダイソー|¥100||
