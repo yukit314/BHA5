@@ -2,12 +2,12 @@
 
 |No|個数|品|購入できる場所|価格(Cheapest)|参考|
 | ------------: | ------------: | :------------ | :------------ | ------------: | :------------ |
-|1|2|80 mm ファン(PC用)|[Tsukumo](http://shop.tsukumo.co.jp/goods/4937925913084/), [Monotaro](https://www.monotaro.com/g/00866020/), [AliExpress](https://www.aliexpress.com/item/80-80-25-MM-Personal-Computer-Case-Cooling-Fan-DC-12V-2200RPM-45CM-Fan-Cable-PC/32691113285.html)|475||
-|2|2|ネオジム磁石|ダイソー|¥100||
-|3|1|ポテンショメータ 100Ω 2W|[RS Online](https://jp.rs-online.com/mobile/p/potentiometers/5225254/), [AliExpress](https://www.aliexpress.com/item/Free-Shipping-RV24YN20S-B101-100-ohm-Potentiometer/32815276138.html)|¥695||
-|4|5|ロッカースイッチ|[RS Online](https://jp.rs-online.com/mobile/p/rocker-switches/7182247/), [Monotaro](https://www.monotaro.com/g/00163769/), [AliExpress](https://www.aliexpress.com/item/10pcs-G133-15-21mm-2PIN-SPST-ON-OFF-Boat-Rocker-Switch-6A-250V-10A-125V-Car/32737048985.html)|¥107||
-|7|1|LED(赤)|[RS Online](http://jp.rs-online.com/web/p/visible-leds/3208667/), [AliExpress](https://www.aliexpress.com/item/100Pcs-LED-5MM-RED-COLOR-RED-LIGHT-Super-Bright-Bulb-Lamp/32224565677.html)|¥44.2||
-|8|1|470Ω 抵抗|[RS Online](http://jp.rs-online.com/web/p/through-hole-fixed-resistors/4911291/), [AliExpress](https://www.aliexpress.com/item/100pcs-470-ohm-1-4W-470R-Metal-Film-Resistor-470ohm-0-25W-1-ROHS/32576340730.html)|¥25||
+|1|2|80 mm ファン(PC用)|[Tsukumo](http://shop.tsukumo.co.jp/goods/4937925913084/), [Monotaro](https://www.monotaro.com/g/00866020/), [AliExpress](https://www.aliexpress.com/item/80-80-25-MM-Personal-Computer-Case-Cooling-Fan-DC-12V-2200RPM-45CM-Fan-Cable-PC/32691113285.html)|¥248||
+|2|2|ネオジム磁石|ダイソー|¥108||
+|3|1|ポテンショメータ 100Ω 2W|[RS Online](https://jp.rs-online.com/mobile/p/potentiometers/5225254/), [AliExpress](https://www.aliexpress.com/item/Free-Shipping-RV24YN20S-B101-100-ohm-Potentiometer/32815276138.html)|¥148||
+|4|5|ロッカースイッチ|[RS Online](https://jp.rs-online.com/mobile/p/rocker-switches/7182247/), [Monotaro](https://www.monotaro.com/g/00163769/), [AliExpress](https://www.aliexpress.com/item/10pcs-G133-15-21mm-2PIN-SPST-ON-OFF-Boat-Rocker-Switch-6A-250V-10A-125V-Car/32737048985.html)|¥155|¥15/piece|
+|7|1|LED(赤)|[RS Online](http://jp.rs-online.com/web/p/visible-leds/3208667/), [AliExpress](https://www.aliexpress.com/item/100Pcs-LED-5MM-RED-COLOR-RED-LIGHT-Super-Bright-Bulb-Lamp/32224565677.html)|¥87|¥2/piece, not including s&h|
+|8|1|470Ω 抵抗|[RS Online](http://jp.rs-online.com/web/p/through-hole-fixed-resistors/4911291/), [AliExpress](https://www.aliexpress.com/item/100pcs-470-ohm-1-4W-470R-Metal-Film-Resistor-470ohm-0-25W-1-ROHS/32576340730.html)|¥67|¥2/piece|
 |9|1|回転子|[Monotaro](https://www.monotaro.com/g/00177579/), [AliExpress](https://www.aliexpress.com/item/10-35mm-Magnetic-Stirrer-Mixer-Stir-Bar-PTFE-Lab-Spin-Spinner-Cylinder/32692647373.html)|¥188-1188||
 |10|8|ゴム足|[Amazon](http://amzn.asia/bm0HBuH), [RS Online](http://jp.rs-online.com/web/p/fixed-height-mounts-feet/4171796/), [AliExpress](https://www.aliexpress.com/item/Wholesale-20pcs-Black-Rubber-Table-Chair-Furniture-Feet-Leg-Pads-Tile-Floor-Protectors-20-x-Self/32816408358.html)|¥399||
 |12|2|フィルムヒーター|[Monotaro](https://www.monotaro.com/g/01362644/?t.q=%83t%83B%83%8B%83%80%83q%81%5B%83%5E),[Monotaro(ペルチェ素子)](https://www.monotaro.com/g/00363679/?t.q=%83y%83%8B%83%60%83F%91f%8Eq),[Akizuki](http://akizukidenshi.com/catalog/g/gM-08908/), [AliExpress](https://www.aliexpress.com/item/80x100mm-35W-12V-DC-Flexiable-Eeletric-Polyimide-Film-Heater-Heating-element-for-Electrical-Wires/32795703215.html)|4.50|
