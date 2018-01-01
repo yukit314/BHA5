@@ -31,4 +31,4 @@
 |30|2|0.01μF コンデンサ|[Akizuki](http://akizukidenshi.com/catalog/g/gP-11150/)|0.14
 |31|2|0.1μF コンデンサ|[Farnell](http://akizukidenshi.com/catalog/g/gP-11154/)|0.14
 |32|1|ウェブカメラ|[Amazon](http://amzn.asia/3gSnP2s)|7.00
-|33|1|4.7 GB DVD-R (track pitch 0.74 microns) or 1,000 lines/mm grating|[Amazon](http://amzn.asia/887x0K1)|14.00
+|33|1|4.7 GB DVD-R (track pitch 0.74 microns) or 回折格子シート 1000本/mm|[Amazon(DVD)](http://amzn.asia/887x0K1) or [Amazon(回折格子シート)](http://amzn.asia/cRjrA2X)|990
