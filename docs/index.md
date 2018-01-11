@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<!-- {% include site-intro.html %} -->
-
 <div class="home">
   <h1 class="page-heading">Latest news from your tutors:</h1>
   <ul class="post-list">
