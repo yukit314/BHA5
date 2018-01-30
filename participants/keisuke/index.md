@@ -13,5 +13,3 @@ _something_
 
 ![Test Image](images/mogu2.png)
 
-![Test Image](images/test.png)
-
