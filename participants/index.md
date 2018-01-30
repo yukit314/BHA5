@@ -5,7 +5,7 @@ layout: default
 # Participants
 
 #### Organisers
-- Georg Tremmel
+- (Georg Tremmel)[participants/georg/]
 - Yumi Nishihara
 
 
