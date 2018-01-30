@@ -3,4 +3,3 @@
 
 ## Hello
 
-_Italic_
