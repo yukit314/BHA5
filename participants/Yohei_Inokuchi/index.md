@@ -1,4 +1,4 @@
-# Yohei Inokuchi
+# _Yohei Inokuchi_
 ## Documentation
 
 ## Hello
