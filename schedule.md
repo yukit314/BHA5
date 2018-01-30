@@ -4,7 +4,9 @@
 仮のスケジュールです。変更がある可能性があります。
 
 Online Lecture Time: **Mondays 18:00 - 20:00 (JST)**
+
 Live: https://www.gotomeet.me/biohack
+
 Archive: https://vimeo.com/waagsociety
 
 The lectures can be viewed live online or at BioClub.  Videos of the lecture will be uploaded soon after.  
