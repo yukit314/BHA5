@@ -23,6 +23,6 @@ How to include an image?
 
 
 `![Some text]({{site.url}}/participants/georg/images/test.png)`
-![Some text]({{site.url}}/participants/georg/images/test.png)
+![Some text](/participants/georg/images/test.png)
 
 `site.url` is defined in \_config.yml 
