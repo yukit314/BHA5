@@ -22,6 +22,7 @@ How to include an image?
 
 
 
-`![Some text]({{site.url}}/participants/georg/images/test.png)`
-![Some text](images/test.png)
+`![Test Image](images/test.png)`
+![Test Image](images/test.png)
 
+`Image URLs can be relative!`
