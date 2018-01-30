@@ -18,8 +18,11 @@ Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some 
 
 How to include an image?
 - Upload to your folder in /participants/ (or any other place)
-- 
 
-`![Image Title](https://octodex.github.com/images/yaktocat.png)`
 
-![Some text]({{site.url}}{{site.baseurl}}/assets/img/hp_narrators.png)
+
+
+`![Some text]({{site.url}}/participants/georg/images/test.png)`
+![Some text]({{site.url}}/participants/georg/images/test.png)
+
+`site.url` is defined in \_config.yml 
