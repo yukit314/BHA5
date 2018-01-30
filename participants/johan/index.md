@@ -1,6 +1,28 @@
-_________.__         ___ ___                __   .__                
-\______   \__| ____  /   |   \_____    ____ |  | _|__| ____    ____  
- |    |  _/  |/  _ \/    ~    \__  \ _/ ___\|  |/ /  |/    \  / ___\ 
- |    |   \  (  <_> )    Y    // __ \\  \___|    <|  |   |  \/ /_/  >
- |______  /__|\____/ \___|_  /(____  /\___  >__|_ \__|___|  /\___  / 
-        \/                 \/      \/     \/     \/       \//_____/  
+---
+layout: default
+---
+
+# Johan
+## Documentation
+
+## Hello
+
+_Italic_
+
+*Bold*
+
+- A list item
+- Another list item
+
+Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf 
+
+How to include an image?
+- Upload to your folder in /participants/ (or any other place)
+
+
+
+
+`![Test Image](images/test.png)`
+![Test Image](images/test.png)
+
+`Image URLs can be relative!`
