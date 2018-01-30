@@ -1,11 +1,14 @@
 # Schedule for BHA5 Japan (ongoing)
-## Lectures by Wagg
+## Lectures by Waag
 [This schedule](https://waag.org/sites/waag/files/public/biohack-academy-5.pdf) is tentative - changes may occur.
 仮のスケジュールです。変更がある可能性があります。
 
-Online Lecture Time: **Mondays 19:00 - 21:00 (JST)**  
-The lectures can be viewed live online or at BioClub.  Video's of the lecture will be uploaded soon after.  
-講義のオンライン中継: **月曜 19:00 - 21:00 (JST)**  
+Online Lecture Time: **Mondays 18:00 - 20:00 (JST)**
+Live: https://www.gotomeet.me/biohack
+Archive: https://vimeo.com/waagsociety
+
+The lectures can be viewed live online or at BioClub.  Videos of the lecture will be uploaded soon after.  
+講義のオンライン中継: **月曜 18:00 - 20:00 (JST)**  
 講義はオンラインか、BioClub (FabCafe MTRL)で受けることができます。講義の動画は後にアップされます。
 
 Weeks | Dates | Lecture topics | Device
