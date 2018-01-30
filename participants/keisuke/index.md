@@ -10,4 +10,4 @@ _something_
 - list
 - another list
 
-![Test Image](images/test.png)
+![Test Image](images/mogu2.png)
