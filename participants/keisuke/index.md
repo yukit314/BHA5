@@ -7,7 +7,7 @@ layout: default
 _something_
 *something*
 
--list
--another list
+- list
+- another list
 
 ![Test Image](images/test.png)
