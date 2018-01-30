@@ -12,3 +12,6 @@ _something_
 - another list
 
 ![Test Image](images/mogu2.png)
+
+![Test Image](images/test.png)
+
