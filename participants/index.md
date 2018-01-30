@@ -5,7 +5,7 @@ layout: default
 # Participants
 
 #### Organisers
-- [Georg Tremmel](participants/georg/)
+- [Georg Tremmel](georg/)
 - Yumi Nishihara
 
 
@@ -19,7 +19,7 @@ layout: default
 - Hiroki Kaimoto
 - 羽根和秀
 - 
-- [Johan Rooms](participants/johan/)
+- [Johan Rooms](johan/)
 - 山田 啓介
 - Kent Sato
 - Youngah seong
