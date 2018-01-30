@@ -22,7 +22,7 @@ How to include an image?
 
 
 
-`![Test Image](images/test.png)`
+
 ![Test Image](./BHA5.png)
 
 `Image URLs can be relative!`
